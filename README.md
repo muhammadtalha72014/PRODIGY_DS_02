@@ -7,7 +7,7 @@ This repository contains my data analysis and machine learning project on the Ti
 The Titanic dataset is a classic dataset used for binary classification tasks. The goal is to predict whether a passenger survived or not based on various features such as age, sex, class, etc.
 
 ## Steps Involved
-Data Collection and Processing
+1. Data Collection and Processing
 
 Loaded the Titanic dataset into a Pandas DataFrame.
 Displayed the first few rows to understand the structure of the data.
@@ -34,7 +34,8 @@ Model Training and Evaluation
 
 Trained a Logistic Regression model.
 Evaluated the model using accuracy score.
-Key Learnings
+
+# Key Learnings
 Data Cleaning: Managing missing values is essential for building robust models.
 EDA: Understanding the data through visualization and statistics helps in feature engineering and selection.
 Modeling: Logistic Regression is a good starting point for binary classification tasks.
