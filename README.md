@@ -1,12 +1,12 @@
-# PRODIGY_DS_01
+# Titanic Survival Prediction
 
-Titanic Survival Prediction
 This repository contains my data analysis and machine learning project on the Titanic dataset. The analysis was performed using MS Excel for data cleaning and exploratory data analysis (EDA), and the modeling was done using Python and various machine learning libraries.
 
-Project Overview
+## Project Overview
+
 The Titanic dataset is a classic dataset used for binary classification tasks. The goal is to predict whether a passenger survived or not based on various features such as age, sex, class, etc.
 
-Steps Involved
+## Steps Involved
 Data Collection and Processing
 
 Loaded the Titanic dataset into a Pandas DataFrame.
